@@ -6,4 +6,4 @@ Upload Shamoon.exe
 
 ---------
 
-Run Shamoon.pl
+Note: Don't Run Shamoon.pl On your computer
